@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/abstractviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/abstractviewer.dir/abstractviewer_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/build/app/abstractviewer_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/build/app/abstractviewer_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/abstractviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/abstractviewer.dir/abstractviewer.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/app/abstractviewer.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/app/abstractviewer.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/documentviewer.dir/documentviewer_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/documentviewer.dir/main.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/app/main.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/app/main.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/documentviewer.dir/mainwindow.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/app/mainwindow.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/app/mainwindow.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/documentviewer.dir/viewerfactory.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/app/viewerfactory.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/app/viewerfactory.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/documentviewer.dir/recentfiles.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/app/recentfiles.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/app/recentfiles.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/documentviewer.dir/recentfilemenu.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/app/recentfilemenu.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/app/recentfilemenu.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/app",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -I/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/include -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -o CMakeFiles/documentviewer.dir/documentviewer_autogen/EWIEGA46WW/qrc_documentviewer.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/EWIEGA46WW/qrc_documentviewer.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/build/app/documentviewer_autogen/EWIEGA46WW/qrc_documentviewer.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/plugins/jsonviewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PLUGIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -Djsonviewer_EXPORTS -I/home/talksik/code/qt-tinkering/documentviewer/build/plugins/jsonviewer/jsonviewer_autogen/include -I/home/talksik/code/qt-tinkering/documentviewer/plugins/jsonviewer/../../app -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -fPIC -o CMakeFiles/jsonviewer.dir/jsonviewer_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/build/plugins/jsonviewer/jsonviewer_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/build/plugins/jsonviewer/jsonviewer_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/plugins/jsonviewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PLUGIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -Djsonviewer_EXPORTS -I/home/talksik/code/qt-tinkering/documentviewer/build/plugins/jsonviewer/jsonviewer_autogen/include -I/home/talksik/code/qt-tinkering/documentviewer/plugins/jsonviewer/../../app -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -fPIC -o CMakeFiles/jsonviewer.dir/jsonviewer.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/plugins/jsonviewer/jsonviewer.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/plugins/jsonviewer/jsonviewer.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/plugins/txtviewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PLUGIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -Dtxtviewer_EXPORTS -I/home/talksik/code/qt-tinkering/documentviewer/build/plugins/txtviewer/txtviewer_autogen/include -I/home/talksik/code/qt-tinkering/documentviewer/plugins/txtviewer/../../app -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -fPIC -o CMakeFiles/txtviewer.dir/txtviewer_autogen/mocs_compilation.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/build/plugins/txtviewer/txtviewer_autogen/mocs_compilation.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/build/plugins/txtviewer/txtviewer_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/talksik/code/qt-tinkering/documentviewer/build/plugins/txtviewer",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DOCUMENTVIEWER_PRINTSUPPORT -DQT_GUI_LIB -DQT_NO_CAST_FROM_ASCII -DQT_PLUGIN -DQT_PRINTSUPPORT_LIB -DQT_WIDGETS_LIB -Dtxtviewer_EXPORTS -I/home/talksik/code/qt-tinkering/documentviewer/build/plugins/txtviewer/txtviewer_autogen/include -I/home/talksik/code/qt-tinkering/documentviewer/plugins/txtviewer/../../app -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtCore -isystem /home/talksik/Qt/6.6.1/gcc_64/include -isystem /home/talksik/Qt/6.6.1/gcc_64/mkspecs/linux-g++ -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtGui -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtWidgets -isystem /home/talksik/Qt/6.6.1/gcc_64/include/QtPrintSupport -g -fPIC -fPIC -o CMakeFiles/txtviewer.dir/txtviewer.cpp.o -c /home/talksik/code/qt-tinkering/documentviewer/plugins/txtviewer/txtviewer.cpp",
+  "file": "/home/talksik/code/qt-tinkering/documentviewer/plugins/txtviewer/txtviewer.cpp"
+}
+]
